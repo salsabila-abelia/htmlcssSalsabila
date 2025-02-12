@@ -1,0 +1,40 @@
+h1 {
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.color1 {
+    color: #FF0000;
+    font-size: 15px;
+}
+
+.color2 {
+    color: #0000FF;
+    /* Contoh warna biru */
+    font-size: 14px;
+}
+
+.color3 {
+    color: #008000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.color4 {
+    color: #FFA500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.color5 {
+    color: #800000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.color6 {
+    color: #6390a8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: plum;
+}
